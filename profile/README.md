@@ -2,6 +2,8 @@
 
 <a href="https://www.youtube.com/@alohaclass8075" target="_blank">YOUTUBE 유튜브</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwalohacampus&theme=default&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwalohacampus&include_orgs=true&show_icons=true&theme=nightowl&locale=kr)
 <!--
 
