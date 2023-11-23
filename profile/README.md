@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=compact&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwwalohacampus&repo=JAVA_TJE)](https://github.com/ALOHA-CLASS/JAVA_TJE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JAVA_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/JAVA_TJE)
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&include_all_commits=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 
