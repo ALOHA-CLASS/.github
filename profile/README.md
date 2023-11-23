@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwalohacampus&theme=default&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&show_icons=true&theme=nightowl&locale=kr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwalohacampus&include_orgs=true&show_icons=true&theme=nightowl&locale=kr)
 <!--
 
 **Here are some ideas to get you started:**
