@@ -10,9 +10,9 @@
 
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&show_icons=true&theme=nightowl&locale=kr)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&show_icons=true&theme=nightowl&locale=en)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=en)
 
 
 
