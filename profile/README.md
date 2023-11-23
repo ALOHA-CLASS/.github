@@ -15,6 +15,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=en)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=compact)
+
 
 <!--
 
