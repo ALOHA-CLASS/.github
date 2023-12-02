@@ -13,7 +13,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=compact&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALOHA-CLASS&theme=dark&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wwwalohacampus&theme=github-dark-blue&locale=ko)](https://git.io/streak-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JAVA_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/JAVA_TJE)
