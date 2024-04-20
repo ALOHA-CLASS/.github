@@ -2,7 +2,7 @@
 
 
 # 👩‍🏫📽 YOUTUBE 
-<a href="https://www.youtube.com/@alohaclass8075" target="_blank">YOUTUBE 유튜브</a>
+<a href="https://www.youtube.com/@alohaclass" target="_blank">YOUTUBE 유튜브</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FALOHA-CLASS&count_bg=%23252090&title_bg=%23FF0000&icon=youtubetv.svg&icon_color=%23E7E7E7&title=ALOLA-CLASS&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
