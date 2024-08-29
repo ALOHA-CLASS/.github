@@ -27,7 +27,7 @@
 
 <!-- 대표 레포지토리 -->
 ### Primary Pepository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JAVA_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/JAVA_TJE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JAVA_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/MSA9_JAVA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=SpringBoot_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/SpringBoot_TJE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=Node.js_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/Node.js_TJE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=React_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/React_TJE)
