@@ -9,8 +9,6 @@
 <br>
 <br>
 
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FALOHA-CLASS&count_bg=%23252090&title_bg=%23FF0000&icon=youtubetv.svg&icon_color=%23E7E7E7&title=ALOLA-CLASS&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 
@@ -32,7 +30,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=Node.js_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/Node.js_TJE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=React_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/React_TJE)
 
-
 <!-- 깃 스텟 -->
 ### Git Stats 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wwwalohacampus&include_orgs=true&include_all_commits=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
@@ -42,5 +39,9 @@
 
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=pie&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
+
+<!-- 백준 --> 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=floaholic)](https://solved.ac/floaholic)
 
 
