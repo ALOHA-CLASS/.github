@@ -42,6 +42,6 @@
 
 <!-- 백준 --> 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=floaholic)](https://solved.ac/floaholic)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=h850415)](https://solved.ac/h850415)
 
 
