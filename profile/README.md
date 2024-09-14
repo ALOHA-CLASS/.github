@@ -41,7 +41,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwalohacampus&layout=pie&include_orgs=true&count_private=true&show_icons=true&theme=nightowl&locale=kr)
 
 <!-- 백준 --> 
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=h850415)](https://solved.ac/h850415)
-
+-->
 
