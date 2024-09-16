@@ -22,9 +22,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwalohacampus&theme=default&show_icons=true)
 
 -->
+<!-- 대표 앱 -->
+### Primary Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JavaFX_BBS&show_icons=true&theme=nightowl)](https://github.com/JavaFX_BBS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JavaFX_QRCodeGenerator&show_icons=true&theme=nightowl)](https://github.com/JavaFX_QRCodeGenerator)
 
 <!-- 대표 레포지토리 -->
-### Primary Pepository
+### Primary Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=MSA9_JAVA&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/MSA9_JAVA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=SpringBoot_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/SpringBoot_TJE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=Node.js_TJE&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/Node.js_TJE)
