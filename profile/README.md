@@ -24,8 +24,8 @@
 -->
 <!-- 대표 앱 -->
 ### Primary Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JavaFX_BBS&show_icons=true&theme=nightowl)](https://github.com/JavaFX_BBS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JavaFX_QRCodeGenerator&show_icons=true&theme=nightowl)](https://github.com/JavaFX_QRCodeGenerator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JavaFX_BBS&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/JavaFX_BBS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALOHA-CLASS&repo=JavaFX_QRCodeGenerator&show_icons=true&theme=nightowl)](https://github.com/ALOHA-CLASS/JavaFX_QRCodeGenerator)
 
 <!-- 대표 레포지토리 -->
 ### Primary Repository
