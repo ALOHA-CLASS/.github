@@ -21,13 +21,15 @@
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wwwalohacampus&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/wwwalohacampus?pet-id=680305851225635842"
-    width="600"
-    height="120"
-  />
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wwwalohacampus&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wwwalohacampus"
+  width="600"
+  height="300"
+/>
 </a>
+  
 
 <a href="https://www.gitanimals.org/">
       <img
