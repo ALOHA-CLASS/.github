@@ -18,6 +18,27 @@
 ### Contribution Graph 
 <img src="https://ghchart.rshah.org/219138/wwwalohacampus" />
 
+
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wwwalohacampus&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/wwwalohacampus?pet-id=680305851225635842"
+    width="600"
+    height="120"
+  />
+</a>
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/680306676102614987/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+  
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwalohacampus&theme=default&show_icons=true)
 
