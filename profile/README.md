@@ -21,7 +21,7 @@
 
 
 
-
+<!-- GitHub 펫 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wwwalohacampus&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/wwwalohacampus"
@@ -30,7 +30,7 @@
 />
 </a>
   
-
+<!-- 길드 -->
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/680306676102614987/draw"
