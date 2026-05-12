@@ -73,7 +73,7 @@
 - React · Next.js 프론트엔드 설계
 - Flutter 모바일 앱 개발
 - Java · Python 프로그래밍
-- Caf224 / AWS / GCP 클라우드 인프라 구축
+- Cafe24 / AWS / GCP 클라우드 인프라 구축
 - 개발 강의 & 실습 콘텐츠 제작
 
 ---
